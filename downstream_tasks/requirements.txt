@@ -8,4 +8,4 @@ scipy==1.13.0
 torch==2.1.0+cu118
 tqdm==4.66.1
 transformers==4.39.1
-~ransformers==4.38.0.dev0
+
